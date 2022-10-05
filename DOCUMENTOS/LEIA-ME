@@ -1,0 +1,20 @@
+- - - MANUAL MINI SISTEMA DE VENDAS criado por Guilherme de Paula 
+	Passo a passos de utilização
+	
+	Importação o banco de dados
+	1. Importação para Windows;
+	1.1 Abra o Xampp e inicie os servidores Apache e MySQL;
+	1.2. Abra o terminal diretamente do xampp e entre no banco: utilize "mysql -u root -p" (por padrão, não possui senha);
+	1.3. Copie o arquivo "sistema.sql" no endereço  C:\xampp\mysql\bin ;
+	1.4. Abra o CMD no Windows e digite o comando cd C:\xampp\mysql\bin ;
+	1.4. No terminal, digite o comando: mysql -u root -p sistema < sistema.sql ;
+	
+	2. Importação para distribuições Linux
+	2.1 Abra o terminal e execute "mysql -u root -p" (por padrão, não possui senha);
+	2.2. Crie e use um banco de dados chamado "sistema";
+	2.2. Escolha uma pasta e copie o arquivo "sistema.sql";
+	2.3. Abra o terminal na pasta e digite o comando: mysql -u root -p sistema < sistema.sql
+	
+	3. 
+	
+	
